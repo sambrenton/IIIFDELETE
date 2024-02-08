@@ -1,0 +1,365 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://d0f303a7-8f7c-4be4-83ba-ba15724f175a",
+	"@type": "sc:Manifest",
+	"label": "MM",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Mander and Mitchenson Collection",
+			"@language": "en"
+		}
+	],
+	"attribution": "MM, Theatre Collection, University of Bristol",
+	"sequences": [
+		{
+			"@id": "http://adab0eb6-1d6d-4d38-83e0-1d6fbd001f7c",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://c8e91bd1-ea7c-4f09-816c-de5c23678555",
+					"@type": "sc:Canvas",
+					"label": "MM_REF_PE_VA_228_1",
+					"height": 1737,
+					"width": 1174,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d76520d0-a07f-4fc4-9953-4fadb4a305f2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FMM_REF_PE_VA_228_1.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FMM_REF_PE_VA_228_1.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2039238,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1737,
+								"width": 1174
+							},
+							"on": "http://c8e91bd1-ea7c-4f09-816c-de5c23678555"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://27f23f86-c4a2-4ca6-88d3-2f9143c5c532",
+					"@type": "sc:Canvas",
+					"label": "MM_REF_PE_VA_228_2",
+					"height": 1737,
+					"width": 1174,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8e7d6995-884d-466c-a45f-f9f411554799",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FMM_REF_PE_VA_228_2.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FMM_REF_PE_VA_228_2.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2039238,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1737,
+								"width": 1174
+							},
+							"on": "http://27f23f86-c4a2-4ca6-88d3-2f9143c5c532"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b44925bf-4095-4f68-8af3-8daafd0753ac",
+					"@type": "sc:Canvas",
+					"label": "MM_REF_PE_VA_228_3",
+					"height": 1737,
+					"width": 1174,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://186eb0a7-17d2-482f-926d-1b98c35df8aa",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FMM_REF_PE_VA_228_3.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FMM_REF_PE_VA_228_3.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2039238,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1737,
+								"width": 1174
+							},
+							"on": "http://b44925bf-4095-4f68-8af3-8daafd0753ac"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5314b676-9b54-45c8-9edd-fd1fb889fec0",
+					"@type": "sc:Canvas",
+					"label": "MM_REF_TH_SU_SP_2_barbette.jpg",
+					"height": 1876,
+					"width": 1370,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6274c9b9-24f5-4613-8c83-f3a4b46e263b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FMM_REF_TH_SU_SP_2_barbette.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FMM_REF_TH_SU_SP_2_barbette.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2570120,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1876,
+								"width": 1370
+							},
+							"on": "http://5314b676-9b54-45c8-9edd-fd1fb889fec0"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://94150670-5551-4f65-9a27-32b3ad1a334b",
+					"@type": "sc:Canvas",
+					"label": "MM_REF_TH_SU_SP_2_Richard Harlow.jpg",
+					"height": 2060,
+					"width": 1324,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://75686ad8-68db-42b4-a33f-47d8cb510088",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FMM_REF_TH_SU_SP_2_Richard_Harlow.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FMM_REF_TH_SU_SP_2_Richard_Harlow.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2727440,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2060,
+								"width": 1324
+							},
+							"on": "http://94150670-5551-4f65-9a27-32b3ad1a334b"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"logo": "https://people.maths.bris.ac.uk/~mb13434/pad18/images/logo-screen.png"
+}

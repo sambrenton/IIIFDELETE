@@ -1,0 +1,231 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://d0f303a7-8f7c-4be4-83ba-ba15724f175a",
+	"@type": "sc:Manifest",
+	"label": "OHM",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Oliver Messel Archive",
+			"@language": "en"
+		}
+	],
+	"attribution": "OHM, Theatre Collection, University of Bristol",
+	"sequences": [
+		{
+			"@id": "http://adab0eb6-1d6d-4d38-83e0-1d6fbd001f7c",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://bacbba0d-0b22-4c0a-abb1-e4d2a00667cd",
+					"@type": "sc:Canvas",
+					"label": "OHM/3/5/3\n",
+					"height": 1151,
+					"width": 1181,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3d604a34-4bab-4b94-bd57-2ddaffe7c43a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FOHM_3_5_3.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FOHM_3_5_3.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 1359331,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1151,
+								"width": 1181
+							},
+							"on": "http://bacbba0d-0b22-4c0a-abb1-e4d2a00667cd"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f4f37f10-86be-4e4b-851b-66ac94e52fad",
+					"@type": "sc:Canvas",
+					"label": "OHM/3/2/16",
+					"height": 2000,
+					"width": 1921,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7497b48e-01cd-4902-84ed-26e7238729aa",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FOHM-3-2-16.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FOHM-3-2-16.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 3842000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2000,
+								"width": 1921
+							},
+							"on": "http://f4f37f10-86be-4e4b-851b-66ac94e52fad"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a9cfb7c8-2010-4723-9199-c8322add1f6e",
+					"@type": "sc:Canvas",
+					"label": "OHM/3/2/64\n",
+					"height": 2048,
+					"width": 1536,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f88155ab-7130-4d32-a179-8491aba1e8de",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FOHM_3_2_64.jpeg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FOHM_3_2_64.jpeg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 3145728,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2048,
+								"width": 1536
+							},
+							"on": "http://a9cfb7c8-2010-4723-9199-c8322add1f6e"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"logo": "https://people.maths.bris.ac.uk/~mb13434/pad18/images/logo-screen.png"
+}
