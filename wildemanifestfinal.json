@@ -1,0 +1,303 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://5f71582b-1613-404a-8a66-dff5bc8206e3",
+	"@type": "sc:Manifest",
+	"label": "After Reading: letters of Oscar Wilde to Robert Ross",
+	"metadata": [
+		{"label": "Publisher", "value": "Beaumont Press, Westminster, 1921"}
+	],
+	"description": [
+		{
+			"@value": "This volume contains letters written by Oscar Wilde in France to his friend and literary executor Robert Ross, after Wilde’s release from Reading Gaol on a charge of gross indecency. Ross was a good friend and supporter to Wilde, and in fact, met Wilde on his arrival in France straight after his release. The opening of the first letter reveals the extent of Wilde’s despair following his incarceration.",
+			"@language": "en"
+		}
+	],
+	"viewingDirection": "left-to-right",
+	"viewingHint": "paged",
+
+	"attribution": "Special Collections, University of Bristol",
+	"sequences": [
+		{
+			"@id": "http://5e4597ad-e418-45aa-ae0c-40c3fa342ddf",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://08963909-d589-4434-bcc4-57242d174999",
+					"@type": "sc:Canvas",
+					"label": "Book cover",
+					"height": 4263,
+					"width": 3046,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://52dc5ef1-aecb-455a-8ae7-493f8998d8b5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FSC008056.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FSC008056.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 12985098,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4263,
+								"width": 3046
+							},
+							"on": "http://0511c22f-33a6-4553-8a98-dfc8bbee9630"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://686f842a-aea8-4487-8d7f-49402a2e5d64",
+					"@type": "sc:Canvas",
+					"label": "Edition page",
+					"height": 3912,
+					"width": 2558,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://cf358844-a465-4865-9c19-ffe8161bd578",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FSC008057.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FSC008057.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 10006896,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3912,
+								"width": 2558
+							},
+							"on": "http://686f842a-aea8-4487-8d7f-49402a2e5d64"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d89ab224-4af9-48e2-bd13-6949b737fc39",
+					"@type": "sc:Canvas",
+					"label": "Title page",
+					"height": 3910,
+					"width": 2537,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c3c3d69c-4b09-4769-9c61-bd560103ecd7",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FSC008058.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FSC008058.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 9919670,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3910,
+								"width": 2537
+							},
+							"on": "http://d89ab224-4af9-48e2-bd13-6949b737fc39"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://42336366-6b37-4c17-9ab5-df4ee074c5db",
+					"@type": "sc:Canvas",
+					"label": "Page one, letter one",
+					"height": 3928,
+					"width": 2528,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://46d0d437-abfd-432d-91ae-266f4f4cd584",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FSC008061.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FSC008061.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 9929984,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3928,
+								"width": 2528
+							},
+							"on": "http://42336366-6b37-4c17-9ab5-df4ee074c5db"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"logo": "https://cdn.freebiesupply.com/logos/large/2x/university-of-bristol-logo-png-transparent.png"
+}

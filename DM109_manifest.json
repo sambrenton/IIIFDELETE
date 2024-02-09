@@ -1,0 +1,164 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://3fb94fec-167c-4db8-ab25-0f6b2e302bf2",
+	"@type": "sc:Manifest",
+	"label": "Letter from John Addington Symonds ",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "First two pages of a letter from John Addington Symonds to his friend Albert Rutson [18 March 1864]\nThe letter deals with the relationship between Symonds and Rutson and counsels Rutson not to expect his relationship with a potential future wife to be the same as his relationship with Symonds. \nJohn Addington Symonds (1840-1893) was a writer and advocate for homosexual rights. He was born in Bristol and later on returned to live, first at Victoria Square, Clifton and later at Clifton Hill House, which became a University of Bristol Hall of Residence.",
+			"@language": "en"
+		}
+	],
+	"attribution": "DM109/5/3/1, Special Collections, University of Bristol",
+	"sequences": [
+		{
+			"@id": "http://90465648-ae15-46c7-8adc-ce3b6963e975",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://f90dca8a-0432-4b7a-af7c-a6c3be24f3f5",
+					"@type": "sc:Canvas",
+					"label": "Page one",
+					"height": 4560,
+					"width": 3032,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3504bedf-1c61-4ece-a0e6-52630e0d5886",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FDM109-5-3-1a-01.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FDM109-5-3-1a-01.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 13825920,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4560,
+								"width": 3032
+							},
+							"on": "http://f90dca8a-0432-4b7a-af7c-a6c3be24f3f5"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5a375b36-71ef-453e-ae03-b11e703c70b3",
+					"@type": "sc:Canvas",
+					"label": "Page two",
+					"height": 4509,
+					"width": 3327,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://167dbc02-f998-4380-9896-f61f93ae234f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FDM109-5-3-1a-02.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.rit.bris.ac.uk/iiif/2/lgbtqhistory%2FDM109-5-3-1a-02.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 15001443,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4509,
+								"width": 3327
+							},
+							"on": "http://5a375b36-71ef-453e-ae03-b11e703c70b3"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"logo": "https://people.maths.bris.ac.uk/~mb13434/pad18/images/logo-screen.png"
+}
